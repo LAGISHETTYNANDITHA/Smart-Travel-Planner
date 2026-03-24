@@ -10,7 +10,7 @@ Automatically generates a day-wise travel plan with places and timings.
 Budget Planning
 Provides estimated cost breakdown for travel, food, accommodation, and activities.
 Weather Integration
-Uses API to display real-time weather and forecast of the destination.
+Uses API to display real-time weather and forecast of the destination. 
 Safety Features
 Suggests precautions and travel tips for a safe journey.
 Technologies Used
